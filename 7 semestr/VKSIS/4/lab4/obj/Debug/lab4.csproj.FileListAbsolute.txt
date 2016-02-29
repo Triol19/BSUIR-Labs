@@ -1,0 +1,21 @@
+F:\Documents\К учёбе\БГУИР\Учебные материалы\4 курс\7 семестр\ВКСиС\Лабы\4\lab4\bin\Debug\lab4.exe.config
+F:\Documents\К учёбе\БГУИР\Учебные материалы\4 курс\7 семестр\ВКСиС\Лабы\4\lab4\bin\Debug\lab4.exe
+F:\Documents\К учёбе\БГУИР\Учебные материалы\4 курс\7 семестр\ВКСиС\Лабы\4\lab4\bin\Debug\lab4.pdb
+F:\Documents\К учёбе\БГУИР\Учебные материалы\4 курс\7 семестр\ВКСиС\Лабы\4\lab4\obj\Debug\lab4.csprojResolveAssemblyReference.cache
+F:\Documents\К учёбе\БГУИР\Учебные материалы\4 курс\7 семестр\ВКСиС\Лабы\4\lab4\obj\Debug\lab4.Form1.resources
+F:\Documents\К учёбе\БГУИР\Учебные материалы\4 курс\7 семестр\ВКСиС\Лабы\4\lab4\obj\Debug\lab4.Properties.Resources.resources
+F:\Documents\К учёбе\БГУИР\Учебные материалы\4 курс\7 семестр\ВКСиС\Лабы\4\lab4\obj\Debug\lab4.csproj.GenerateResource.Cache
+F:\Documents\К учёбе\БГУИР\Учебные материалы\4 курс\7 семестр\ВКСиС\Лабы\4\lab4\obj\Debug\lab4.exe
+F:\Documents\К учёбе\БГУИР\Учебные материалы\4 курс\7 семестр\ВКСиС\Лабы\4\lab4\obj\Debug\lab4.pdb
+F:\Documents\К учёбе\БГУИР\Учебные материалы\4 курс\Common subjects\ВКСиС\Лабы. 7 семестр\4\lab4\bin\Debug\lab4.exe.config
+F:\Documents\К учёбе\БГУИР\Учебные материалы\4 курс\Common subjects\ВКСиС\Лабы. 7 семестр\4\lab4\obj\Debug\lab4.exe
+F:\Documents\К учёбе\БГУИР\Учебные материалы\4 курс\Common subjects\ВКСиС\Лабы. 7 семестр\4\lab4\obj\Debug\lab4.pdb
+F:\Documents\К учёбе\БГУИР\Учебные материалы\4 курс\Common subjects\ВКСиС\Лабы. 7 семестр\4\lab4\bin\Debug\lab4.exe
+F:\Documents\К учёбе\БГУИР\Учебные материалы\4 курс\Common subjects\ВКСиС\Лабы. 7 семестр\4\lab4\bin\Debug\lab4.pdb
+F:\Documents\К учёбе\БГУИР\Учебные материалы\4 курс\Common subjects\ВКСиС\Лабы. 7 семестр\4\lab4\obj\Debug\lab4.csprojResolveAssemblyReference.cache
+F:\Documents\К учёбе\БГУИР\Учебные материалы\4 курс\Common subjects\ВКСиС\Лабы. 7 семестр\4\lab4\obj\Debug\lab4.Form1.resources
+F:\Documents\К учёбе\БГУИР\Учебные материалы\4 курс\Common subjects\ВКСиС\Лабы. 7 семестр\4\lab4\obj\Debug\lab4.Properties.Resources.resources
+F:\Documents\К учёбе\БГУИР\Учебные материалы\4 курс\Common subjects\ВКСиС\Лабы. 7 семестр\4\lab4\obj\Debug\lab4.csproj.GenerateResource.Cache
+C:\Users\Triol\documents\visual studio 2010\Projects\lab4\lab4\bin\Debug\lab4.exe.config
+C:\Users\Triol\documents\visual studio 2010\Projects\lab4\lab4\obj\Debug\lab4.exe
+C:\Users\Triol\documents\visual studio 2010\Projects\lab4\lab4\obj\Debug\lab4.pdb

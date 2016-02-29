@@ -1,0 +1,17 @@
+C:\Users\Triol\documents\visual studio 2010\Projects\lab2\lab2\obj\x86\Debug\lab2.Properties.Resources.resources
+C:\Users\Triol\documents\visual studio 2010\Projects\lab2\lab2\obj\x86\Debug\lab2.csproj.GenerateResource.Cache
+C:\Users\Triol\documents\visual studio 2010\Projects\lab2\lab2\obj\x86\Debug\lab2.csprojResolveAssemblyReference.cache
+C:\Users\Triol\documents\visual studio 2010\Projects\lab2\lab2\bin\Debug\lab2.exe
+C:\Users\Triol\documents\visual studio 2010\Projects\lab2\lab2\bin\Debug\lab2.pdb
+C:\Users\Triol\documents\visual studio 2010\Projects\lab2\lab2\obj\x86\Debug\lab2.exe
+C:\Users\Triol\documents\visual studio 2010\Projects\lab2\lab2\obj\x86\Debug\lab2.pdb
+C:\Users\Triol\documents\visual studio 2010\Projects\lab2\lab2\obj\x86\Debug\lab2.Form1.resources
+C:\Users\Triol\Documents\Visual Studio 2010\Projects\lab3\lab2\obj\x86\Debug\lab2.exe
+C:\Users\Triol\Documents\Visual Studio 2010\Projects\lab3\lab2\obj\x86\Debug\lab2.pdb
+C:\Users\Triol\Documents\Visual Studio 2010\Projects\lab3\lab2\bin\Debug\lab2.exe.config
+C:\Users\Triol\Documents\Visual Studio 2010\Projects\lab3\lab2\bin\Debug\lab2.exe
+C:\Users\Triol\Documents\Visual Studio 2010\Projects\lab3\lab2\bin\Debug\lab2.pdb
+C:\Users\Triol\Documents\Visual Studio 2010\Projects\lab3\lab2\obj\x86\Debug\lab2.csprojResolveAssemblyReference.cache
+C:\Users\Triol\Documents\Visual Studio 2010\Projects\lab3\lab2\obj\x86\Debug\lab2.Form1.resources
+C:\Users\Triol\Documents\Visual Studio 2010\Projects\lab3\lab2\obj\x86\Debug\lab2.Properties.Resources.resources
+C:\Users\Triol\Documents\Visual Studio 2010\Projects\lab3\lab2\obj\x86\Debug\lab2.csproj.GenerateResource.Cache
