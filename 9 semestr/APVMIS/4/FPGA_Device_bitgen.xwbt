@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=C:\Users\Administrator\Desktop\4\FPGA_Device.ncd
+OUTFILE=C:\Users\Administrator\Desktop\4\FPGA_Device.bit
+FAMILY=Artix7
+PART=xc7a200t-3fbg676
+WORKINGDIR=C:\Users\Administrator\Desktop\4
+LICENSE=WebPack
+USER_INFO=_

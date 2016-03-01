@@ -1,0 +1,3 @@
+MODULE jc2_top
+	SUBMODULE jcounter
+		INSTANCE U1

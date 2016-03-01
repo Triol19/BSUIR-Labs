@@ -1,0 +1,17 @@
+ISim log file
+Running: Y:\Desktop\3(true test)\2\main_test_isim_beh.exe -intstyle ise -gui -tclbatch isim.cmd -wdb Y:/Desktop/3(true test)/2/main_test_isim_beh.wdb 
+ISim P.20131013 (signature 0x7708f090)
+This is a Full version of ISim.
+Time resolution is 1 ps
+# onerror resume
+# wave add /
+# run 2000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+at 322500 ps: Note: No errors! (/main_test/).
+
+** Failure:MY INTERRUPT. End of simulation.
+User(VHDL) Code Called Simulation Stop
+In process main_test.vhd:stim_proc 
+ 
+INFO: Simulator is stopped.

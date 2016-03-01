@@ -1,0 +1,64 @@
+ISim log file
+Running: Y:\Desktop\3\2\main_test_isim_beh.exe -intstyle ise -gui -tclbatch isim.cmd -wdb Y:/Desktop/3/2/main_test_isim_beh.wdb 
+ISim P.20131013 (signature 0x7708f090)
+This is a Full version of ISim.
+Time resolution is 1 ps
+# onerror resume
+# wave add /
+# run 2000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+at 43500 ps: Error: READ(STD_ULOGIC_VECTOR) Error: Character 'u' read, expected STD_ULOGIC literal.
+at 48500 ps: Error: READ(STD_ULOGIC_VECTOR) Error: Character 'u' read, expected STD_ULOGIC literal.
+at 53500 ps: Error: READ(STD_ULOGIC_VECTOR) Error: Character 'u' read, expected STD_ULOGIC literal.
+at 58500 ps: Error: READ(STD_ULOGIC_VECTOR) Error: Character 'u' read, expected STD_ULOGIC literal.
+at 63500 ps: Error: READ(STD_ULOGIC_VECTOR) Error: Character 'u' read, expected STD_ULOGIC literal.
+at 68500 ps: Error: READ(STD_ULOGIC_VECTOR) Error: Character 'd' read, expected STD_ULOGIC literal.
+at 73500 ps: Error: READ(STD_ULOGIC_VECTOR) Error: Character 'd' read, expected STD_ULOGIC literal.
+at 78500 ps: Error: READ(STD_ULOGIC_VECTOR) Error: Character 'd' read, expected STD_ULOGIC literal.
+at 83500 ps: Error: READ(STD_ULOGIC_VECTOR) Error: Character 'd' read, expected STD_ULOGIC literal.
+at 88500 ps: Error: READ(STD_ULOGIC_VECTOR) Error: Character 'd' read, expected STD_ULOGIC literal.
+at 93500 ps: Error: READ(STD_ULOGIC_VECTOR) Error: Character 'd' read, expected STD_ULOGIC literal.
+at 98500 ps: Error: READ(STD_ULOGIC_VECTOR) Error: Character 'd' read, expected STD_ULOGIC literal.
+at 103500 ps: Error: length of string read is less than the string size
+at 103500 ps: Error: READ(STD_ULOGIC_VECTOR) Error: Character '
+at 108500 ps: Error: length of string read is less than the string size
+at 108500 ps: Error: READ(STD_ULOGIC_VECTOR) Error: Character '
+at 113500 ps: Error: READ(STD_ULOGIC_VECTOR) Error: Character 'o' read, expected STD_ULOGIC literal.
+at 118500 ps: Error: READ(STD_ULOGIC_VECTOR) Error: Character 'o' read, expected STD_ULOGIC literal.
+at 123500 ps: Error: READ(STD_ULOGIC_VECTOR) Error: Character 'c' read, expected STD_ULOGIC literal.
+at 128500 ps: Error: READ(STD_ULOGIC_VECTOR) Error: Character 'd' read, expected STD_ULOGIC literal.
+at 133500 ps: Error: READ(STD_ULOGIC_VECTOR) Error: Character 'd' read, expected STD_ULOGIC literal.
+at 138500 ps: Error: READ(STD_ULOGIC_VECTOR) Error: Character 'd' read, expected STD_ULOGIC literal.
+at 143500 ps: Error: READ(STD_ULOGIC_VECTOR) Error: Character 'd' read, expected STD_ULOGIC literal.
+at 148500 ps: Error: READ(STD_ULOGIC_VECTOR) Error: Character 'd' read, expected STD_ULOGIC literal.
+at 153500 ps: Error: READ(STD_ULOGIC_VECTOR) Error: Character 's' read, expected STD_ULOGIC literal.
+at 158500 ps: Error: READ(STD_ULOGIC_VECTOR) Error: Character 's' read, expected STD_ULOGIC literal.
+at 163500 ps: Error: READ(STD_ULOGIC_VECTOR) Error: Character 's' read, expected STD_ULOGIC literal.
+at 168500 ps: Error: READ(STD_ULOGIC_VECTOR) Error: Character 's' read, expected STD_ULOGIC literal.
+at 173500 ps: Error: READ(STD_ULOGIC_VECTOR) Error: Character 'd' read, expected STD_ULOGIC literal.
+at 178500 ps: Error: READ(STD_ULOGIC_VECTOR) Error: Character 'd' read, expected STD_ULOGIC literal.
+at 183500 ps: Error: READ(STD_ULOGIC_VECTOR) Error: Character 'd' read, expected STD_ULOGIC literal.
+at 188500 ps: Error: READ(STD_ULOGIC_VECTOR) Error: Character 'd' read, expected STD_ULOGIC literal.
+at 193500 ps: Error: READ(STD_ULOGIC_VECTOR) Error: Character 'd' read, expected STD_ULOGIC literal.
+at 198500 ps: Error: READ(STD_ULOGIC_VECTOR) Error: Character 'd' read, expected STD_ULOGIC literal.
+at 203500 ps: Error: READ(STD_ULOGIC_VECTOR) Error: Character 'd' read, expected STD_ULOGIC literal.
+at 208500 ps: Error: READ(STD_ULOGIC_VECTOR) Error: Character 'd' read, expected STD_ULOGIC literal.
+at 213500 ps: Error: READ(STD_ULOGIC_VECTOR) Error: Character 'd' read, expected STD_ULOGIC literal.
+at 218500 ps: Error: READ(STD_ULOGIC_VECTOR) Error: Character 'd' read, expected STD_ULOGIC literal.
+at 223500 ps: Error: READ(STD_ULOGIC_VECTOR) Error: Character 'd' read, expected STD_ULOGIC literal.
+at 228500 ps: Error: READ(STD_ULOGIC_VECTOR) Error: Character 'd' read, expected STD_ULOGIC literal.
+at 233500 ps: Error: READ(STD_ULOGIC_VECTOR) Error: Character 'd' read, expected STD_ULOGIC literal.
+at 238500 ps: Error: READ(STD_ULOGIC_VECTOR) Error: Character 'd' read, expected STD_ULOGIC literal.
+at 243500 ps: Error: READ(STD_ULOGIC_VECTOR) Error: Character 'd' read, expected STD_ULOGIC literal.
+at 248500 ps: Error: READ(STD_ULOGIC_VECTOR) Error: Character 'd' read, expected STD_ULOGIC literal.
+at 253500 ps: Error: READ(STD_ULOGIC_VECTOR) Error: Character 'd' read, expected STD_ULOGIC literal.
+at 258500 ps: Error: READ(STD_ULOGIC_VECTOR) Error: Character 'd' read, expected STD_ULOGIC literal.
+at 263500 ps: Error: READ(STD_ULOGIC_VECTOR) Error: Character 'd' read, expected STD_ULOGIC literal.
+at 267500 ps: Note: No errors! (/main_test/).
+
+** Failure:MY INTERRUPT. End of simulation.
+User(VHDL) Code Called Simulation Stop
+In process main_test.vhd:stim_proc 
+ 
+INFO: Simulator is stopped.

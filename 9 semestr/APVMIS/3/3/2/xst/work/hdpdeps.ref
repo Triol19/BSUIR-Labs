@@ -1,0 +1,14 @@
+V3 9
+FL //psf/home/Desktop/2/laba2/dff.vhd 2015/10/05.17:33:26 P.20131013
+FL //psf/home/Desktop/2/laba2/main.vhd 2015/10/05.23:39:47 P.20131013
+FL C:/Users/Administrator/Desktop/laba2/dff.vhd 2015/10/07.15:51:14 P.20131013
+EN work/dff 1444224314 FL C:/Users/Administrator/Desktop/laba2/dff.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/dff/Behavioral 1444224315 \
+      FL C:/Users/Administrator/Desktop/laba2/dff.vhd EN work/dff 1444224314
+FL C:/Users/Administrator/Desktop/laba2/main.vhd 2015/10/07.16:25:04 P.20131013
+EN work/main 1444224316 FL C:/Users/Administrator/Desktop/laba2/main.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/main/Behavioral 1444224317 \
+      FL C:/Users/Administrator/Desktop/laba2/main.vhd EN work/main 1444224316 \
+      CP dff

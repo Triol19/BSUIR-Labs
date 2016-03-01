@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- IMPORTANT: This is an internal file that has been generated
+     by the Xilinx ISE software.  Any direct editing or
+     changes made to this file may result in unpredictable
+     behavior or data corruption.  It is strongly advised that
+     users do not edit the contents of this file. -->
+<messages>
+<msg type="info" file="LIT" num="244" delta="new" >All of the single ended outputs in this design are using slew rate limited output drivers. The delay on speed critical single ended outputs can be dramatically reduced by designating them as fast outputs.
+</msg>
+
+<msg type="warning" file="Pack" num="2949" delta="new" >The I/O component <arg fmt="%s" index="1">sysclk_n</arg> uses an DQS_BIAS attribute with I/O standard <arg fmt="%s" index="2">LVDS_25</arg>. The DQS_BIAS attribute will be ignored since the selected I/O standard does not support DQS_BIAS usage.
+</msg>
+
+<msg type="warning" file="Pack" num="2949" delta="new" >The I/O component <arg fmt="%s" index="1">sysclk_p</arg> uses an DQS_BIAS attribute with I/O standard <arg fmt="%s" index="2">LVDS_25</arg>. The DQS_BIAS attribute will be ignored since the selected I/O standard does not support DQS_BIAS usage.
+</msg>
+
+<msg type="info" file="Pack" num="1716" delta="new" >Initializing temperature to <arg fmt="%0.3f" index="1">85.000</arg> Celsius. (default - Range: <arg fmt="%0.3f" index="2">0.000</arg> to <arg fmt="%0.3f" index="3">85.000</arg> Celsius)
+</msg>
+
+<msg type="info" file="Pack" num="1720" delta="new" >Initializing voltage to <arg fmt="%0.3f" index="1">0.950</arg> Volts. (default - Range: <arg fmt="%0.3f" index="2">0.950</arg> to <arg fmt="%0.3f" index="3">1.050</arg> Volts)
+</msg>
+
+<msg type="info" file="Map" num="215" delta="new" >The Interim Design Summary has been generated in the MAP Report (.mrp).
+</msg>
+
+<msg type="warning" file="Place" num="838" delta="new" >An IO Bus with more than one IO standard is found.
+<arg fmt="%s" index="1">Components associated with this bus are as follows: 
+	 Comp: buttons&lt;8&gt;   IOSTANDARD = LVCMOS25
+	 Comp: buttons&lt;7&gt;   IOSTANDARD = SSTL15
+	 Comp: buttons&lt;6&gt;   IOSTANDARD = SSTL15
+	 Comp: buttons&lt;5&gt;   IOSTANDARD = SSTL15
+	 Comp: buttons&lt;4&gt;   IOSTANDARD = SSTL15
+	 Comp: buttons&lt;3&gt;   IOSTANDARD = SSTL15
+	 Comp: buttons&lt;2&gt;   IOSTANDARD = SSTL15
+	 Comp: buttons&lt;1&gt;   IOSTANDARD = SSTL15
+	 Comp: buttons&lt;0&gt;   IOSTANDARD = SSTL15
+
+</arg>
+</msg>
+
+<msg type="warning" file="Place" num="838" delta="new" >An IO Bus with more than one IO standard is found.
+<arg fmt="%s" index="1">Components associated with this bus are as follows: 
+	 Comp: leds&lt;4&gt;   IOSTANDARD = LVCMOS25
+	 Comp: leds&lt;3&gt;   IOSTANDARD = LVCMOS33
+	 Comp: leds&lt;2&gt;   IOSTANDARD = LVCMOS33
+	 Comp: leds&lt;1&gt;   IOSTANDARD = LVCMOS33
+	 Comp: leds&lt;0&gt;   IOSTANDARD = LVCMOS33
+
+</arg>
+</msg>
+
+<msg type="info" file="Pack" num="1650" delta="new" >Map created a placed design.
+</msg>
+
+</messages>
+

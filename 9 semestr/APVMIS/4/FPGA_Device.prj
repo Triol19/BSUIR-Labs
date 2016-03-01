@@ -1,0 +1,5 @@
+vhdl work "dff.vhd"
+vhdl work "main.vhd"
+vhdl work "FrequencyDivider.vhd"
+vhdl work "Counter.vhd"
+vhdl work "FPGA.vhd"

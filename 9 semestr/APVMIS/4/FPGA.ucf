@@ -1,0 +1,20 @@
+net leds<0> loc = m26 | iostandard = lvcmos33;
+net leds<1> loc = t24 | iostandard = lvcmos33;
+net leds<2> loc = t25 | iostandard = lvcmos33;
+net leds<3> loc = r26 | iostandard = lvcmos33;
+
+net leds<4> 		loc = f25 | iostandard = lvcmos25;
+
+net buttons<4> 		loc = p6  | iostandard = sstl15;
+net buttons<5> 		loc = r5  | iostandard = sstl15;
+net buttons<6> 		loc = u6  | iostandard = sstl15;
+net buttons<7> 		loc = u5  | iostandard = sstl15;
+net buttons<8> 		loc = t5  | iostandard = lvcmos25;
+
+net buttons<0>		loc = r8  | iostandard = sstl15;
+net buttons<1>		loc = p8  | iostandard = sstl15;
+net buttons<2>		loc = r7  | iostandard = sstl15;
+net buttons<3>		loc = r6  | iostandard = sstl15;
+
+net sysclk_p 			loc = r3  | iostandard = lvds_25;
+net sysclk_n 			loc = p3  | iostandard = lvds_25;
