@@ -1,0 +1,27 @@
+D:\Study\8 Term\ВКСИС\lab2\lab2\lab2\obj\Debug\ResolveAssemblyReference.cache
+D:\Study\8 Term\ВКСИС\lab2\lab2\lab2\obj\Debug\lab2.Form1.resources
+D:\Study\8 Term\ВКСИС\lab2\lab2\lab2\obj\Debug\lab2.Properties.Resources.resources
+D:\Study\8 Term\ВКСИС\lab2\lab2\lab2\obj\Debug\lab2.csproj.GenerateResource.Cache
+D:\Study\8 Term\ВКСИС\lab2\lab2\lab2\bin\Debug\lab2.exe
+D:\Study\8 Term\ВКСИС\lab2\lab2\lab2\bin\Debug\lab2.pdb
+D:\Study\8 Term\ВКСИС\lab2\lab2\lab2\obj\Debug\lab2.exe
+D:\Study\8 Term\ВКСИС\lab2\lab2\lab2\obj\Debug\lab2.pdb
+d:\Учёба\ВКСиС\2 семестр\lab2\lab2\lab2\obj\Debug\lab2.exe
+d:\Учёба\ВКСиС\2 семестр\lab2\lab2\lab2\obj\Debug\lab2.pdb
+d:\Учёба\ВКСиС\2 семестр\lab2\lab2\lab2\bin\Debug\lab2.exe
+d:\Учёба\ВКСиС\2 семестр\lab2\lab2\lab2\bin\Debug\lab2.pdb
+d:\Учёба\ВКСиС\2 семестр\lab2\lab2\lab2\obj\Debug\ResolveAssemblyReference.cache
+d:\Учёба\ВКСиС\2 семестр\lab2\lab2\lab2\obj\Debug\lab2.Form1.resources
+d:\Учёба\ВКСиС\2 семестр\lab2\lab2\lab2\obj\Debug\lab2.Properties.Resources.resources
+d:\Учёба\ВКСиС\2 семестр\lab2\lab2\lab2\obj\Debug\GenerateResource-ResGen.read.1.tlog
+d:\Учёба\ВКСиС\2 семестр\lab2\lab2\lab2\obj\Debug\GenerateResource-ResGen.write.1.tlog
+E:\Dropbox\temporary\lab2\lab2\lab2\obj\Debug\lab2.exe
+E:\Dropbox\temporary\lab2\lab2\lab2\obj\Debug\lab2.pdb
+D:\Загрузка\11111111\TOKEN_RING\lab2\lab2\obj\Debug\lab2.exe
+D:\Загрузка\11111111\TOKEN_RING\lab2\lab2\obj\Debug\lab2.pdb
+D:\Загрузка\11111111\TOKEN_RING\lab2\lab2\bin\Debug\lab2.exe
+D:\Загрузка\11111111\TOKEN_RING\lab2\lab2\bin\Debug\lab2.pdb
+D:\Загрузка\11111111\TOKEN_RING\lab2\lab2\obj\Debug\lab2.Form1.resources
+D:\Загрузка\11111111\TOKEN_RING\lab2\lab2\obj\Debug\lab2.Properties.Resources.resources
+D:\Загрузка\11111111\TOKEN_RING\lab2\lab2\obj\Debug\lab2.csproj.GenerateResource.Cache
+D:\Загрузка\11111111\TOKEN_RING\lab2\lab2\obj\Debug\lab2.csprojResolveAssemblyReference.cache

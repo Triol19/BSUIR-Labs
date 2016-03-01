@@ -1,0 +1,9 @@
+c:\users\triol\documents\visual studio 2013\Projects\CosLab2\CosLab2\bin\Debug\CosLab2.exe.config
+c:\users\triol\documents\visual studio 2013\Projects\CosLab2\CosLab2\obj\Debug\CosLab2.csprojResolveAssemblyReference.cache
+c:\users\triol\documents\visual studio 2013\Projects\CosLab2\CosLab2\obj\Debug\CosLab2.Properties.Resources.resources
+c:\users\triol\documents\visual studio 2013\Projects\CosLab2\CosLab2\obj\Debug\CosLab2.csproj.GenerateResource.Cache
+c:\users\triol\documents\visual studio 2013\Projects\CosLab2\CosLab2\bin\Debug\CosLab2.exe
+c:\users\triol\documents\visual studio 2013\Projects\CosLab2\CosLab2\bin\Debug\CosLab2.pdb
+c:\users\triol\documents\visual studio 2013\Projects\CosLab2\CosLab2\obj\Debug\CosLab2.exe
+c:\users\triol\documents\visual studio 2013\Projects\CosLab2\CosLab2\obj\Debug\CosLab2.pdb
+c:\users\triol\documents\visual studio 2013\Projects\CosLab2\CosLab2\obj\Debug\CosLab2.Form1.resources

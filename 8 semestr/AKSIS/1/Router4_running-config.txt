@@ -1,0 +1,65 @@
+!
+version 12.4
+no service timestamps log datetime msec
+no service timestamps debug datetime msec
+no service password-encryption
+!
+hostname Router
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+spanning-tree mode pvst
+!
+!
+!
+!
+interface FastEthernet0/0
+ ip address 134.113.0.2 255.255.0.0
+ duplex auto
+ speed auto
+!
+interface FastEthernet0/1
+ ip address 108.218.32.2 255.255.224.0
+ duplex auto
+ speed auto
+!
+interface Ethernet1/0
+ ip address 62.120.0.1 255.248.0.0
+ duplex auto
+ speed auto
+!
+interface Vlan1
+ no ip address
+ shutdown
+!
+ip classless
+ip route 0.0.0.0 0.0.0.0 134.113.0.1 
+!
+!
+!
+!
+!
+!
+!
+line con 0
+!
+line aux 0
+!
+line vty 0 4
+ login
+!
+!
+!
+end
+

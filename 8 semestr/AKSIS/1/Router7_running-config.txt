@@ -1,0 +1,69 @@
+!
+version 12.4
+no service timestamps log datetime msec
+no service timestamps debug datetime msec
+no service password-encryption
+!
+hostname Router
+!
+!
+!
+!
+!
+ip dhcp pool LAN
+ network 32.32.32.0 255.255.255.240
+ default-router 32.32.32.1
+!
+!
+!
+!
+!
+!
+!
+!
+!
+spanning-tree mode pvst
+!
+!
+!
+!
+interface FastEthernet0/0
+ ip address 78.128.0.2 255.252.0.0
+ duplex auto
+ speed auto
+!
+interface FastEthernet0/1
+ ip address 199.60.149.1 255.255.255.192
+ duplex auto
+ speed auto
+!
+interface Ethernet1/0
+ ip address 32.32.32.1 255.255.255.240
+ duplex auto
+ speed auto
+!
+interface Vlan1
+ no ip address
+ shutdown
+!
+ip classless
+ip route 0.0.0.0 0.0.0.0 78.128.0.1 
+ip route 10.10.10.0 255.255.255.240 199.60.149.2 
+!
+!
+!
+!
+!
+!
+!
+line con 0
+!
+line aux 0
+!
+line vty 0 4
+ login
+!
+!
+!
+end
+
